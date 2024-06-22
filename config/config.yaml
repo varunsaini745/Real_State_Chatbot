@@ -1,0 +1,6 @@
+document_folder: documents
+chunk_size: 1000
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
+vector_db_path: vector_store
+index_name: index
+
